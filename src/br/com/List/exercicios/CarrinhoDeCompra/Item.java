@@ -1,4 +1,4 @@
-package br.com.models.CarrinhoDeCompra;
+package br.com.List.exercicios.CarrinhoDeCompra;
 
 public class Item {
     private String nome;

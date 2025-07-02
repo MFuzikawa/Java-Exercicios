@@ -1,4 +1,4 @@
-package br.com.models.ListaDeTarefas;
+package br.com.List.exercicios.ListaDeTarefas;
 
 public class Tarefa {
     private String descricao;

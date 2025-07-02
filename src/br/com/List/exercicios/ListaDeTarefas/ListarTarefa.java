@@ -1,4 +1,4 @@
-package br.com.models.ListaDeTarefas;
+package br.com.List.exercicios.ListaDeTarefas;
 
 import java.util.ArrayList;
 import java.util.List;
